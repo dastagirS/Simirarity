@@ -44,9 +44,16 @@ scikit-learn
 ### Installation
 
 If running locally 
+<p align="left">
 pip install PyPDF2
+</p>
+<p align="left">
 pip install nltk
+</p>
+<p align="left">
 pip install scikit-learn
+</p>
+
 
 OR
 
