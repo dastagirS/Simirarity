@@ -6,7 +6,7 @@
     Machine Learining Model To Get Similar Statements Throught Multiple Pdfs
     <br/>
     <br/>
-    <a href="https://github.com/dastagirS/Simirarity">View Demo</a>
+    <a href="https://colab.research.google.com/drive/1SBSS20SMK01QiUx1nMqUHrkHVvFSlrG8?usp=sharing">View Demo</a>
     .
     <a href="https://github.com/dastagirS/Simirarity/issues">Report Bug</a>
     .
