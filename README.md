@@ -3,7 +3,7 @@
   <h3 align="center">Simirarity</h3>
 
   <p align="center">
-    Machine Learining Model To Get Similar Statements Throught Multiple Pdfs
+    Machine Learining Model To Get Similar Statements From Multiple Pdfs
     <br/>
     <br/>
     <a href="https://colab.research.google.com/drive/1SBSS20SMK01QiUx1nMqUHrkHVvFSlrG8?usp=sharing">View Demo</a>
