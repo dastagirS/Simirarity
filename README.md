@@ -14,7 +14,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/dastagirS/Simirarity?color=dark-green) ![Forks](https://img.shields.io/github/forks/dastagirS/Simirarity?style=social) ![Stargazers](https://img.shields.io/github/stars/dastagirS/Simirarity?style=social) ![Issues](https://img.shields.io/github/issues/dastagirS/Simirarity) ![License](https://img.shields.io/github/license/dastagirS/Simirarity) 
+![Contributors](https://img.shields.io/github/contributors/dastagirS/Simirarity?color=dark-green) ![Forks](https://img.shields.io/github/forks/dastagirS/Simirarity?style=social) ![Stargazers](https://img.shields.io/github/stars/dastagirS/Simirarity?style=social) ![Issues](https://img.shields.io/github/issues/dastagirS/Simirarity) 
 
 ## About The Project
 
